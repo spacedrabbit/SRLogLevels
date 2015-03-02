@@ -66,6 +66,28 @@
                            alpha:1.0f];
 }
 
++(UIColor *)srl_hipsterRed{
+    return [UIColor colorWithRed: 0.8 green: 0.322 blue: 0.322 alpha: 1];
+}
 
++(UIColor *)srl_hipsterMaroon{
+    return [UIColor colorWithRed: 0.259 green: 0.157 blue: 0.184 alpha: 1];
+}
+
++(UIColor *)srl_hipsterPistacchio{
+    return [UIColor colorWithRed: 0.455 green: 0.647 blue: 0.533 alpha: 1];
+}
+
++(UIColor *)srl_hipsterSand{
+    return [UIColor colorWithRed: 0.839 green: 0.8 blue: 0.678 alpha: 1];
+}
+
++(UIColor *)srl_hipsterPeach{
+    return [UIColor colorWithRed: 0.863 green: 0.612 blue: 0.463 alpha: 1];
+}
+
++(UIColor *)srl_hipsterSalmon{
+    return [UIColor colorWithRed: 0.839 green: 0.396 blue: 0.353 alpha: 1];
+}
 
 @end

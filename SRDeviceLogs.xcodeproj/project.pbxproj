@@ -47,6 +47,7 @@
 
 /* Begin PBXFileReference section */
 		04F19184F36FDBD0849199F7 /* Pods-SRDeviceLogs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SRDeviceLogs.release.xcconfig"; path = "Pods/Target Support Files/Pods-SRDeviceLogs/Pods-SRDeviceLogs.release.xcconfig"; sourceTree = "<group>"; };
+		141C99211AA2EB7500376FA4 /* libmav_ipc_router_dynamic.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libmav_ipc_router_dynamic.dylib; path = usr/lib/libmav_ipc_router_dynamic.dylib; sourceTree = SDKROOT; };
 		1B92C15F2342013BDB90AD9C /* libPods-SRDeviceLogs.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SRDeviceLogs.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		25C54F171A9E402D0068B15C /* SRDeviceLogs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SRDeviceLogs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25C54F1B1A9E402D0068B15C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -248,6 +249,7 @@
 		77A25589C955616F6ADC4B97 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				141C99211AA2EB7500376FA4 /* libmav_ipc_router_dynamic.dylib */,
 				1B92C15F2342013BDB90AD9C /* libPods-SRDeviceLogs.a */,
 			);
 			name = Frameworks;

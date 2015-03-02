@@ -18,6 +18,7 @@ static int ddLogLevel = LOG_LEVEL_WARN;
 
 +(void)changeToNoLogs{
     ddLogLevel = LOG_LEVEL_OFF;
+    NSLog(@"Log levels are now off!");
 }
 +(void)changeToVerboseLogs{
     ddLogLevel = LOG_LEVEL_VERBOSE;

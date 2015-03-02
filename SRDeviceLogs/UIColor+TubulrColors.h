@@ -19,4 +19,12 @@
 + (UIColor *)srl_closeButtonGrayColor;
 + (UIColor *)srl_textFieldLightGrayColor;
 
++ (UIColor*)srl_hipsterRed;
++ (UIColor*)srl_hipsterMaroon;
++ (UIColor*)srl_hipsterPistacchio;
++ (UIColor*)srl_hipsterSand;
++ (UIColor*)srl_hipsterPeach;
++ (UIColor*)srl_hipsterSalmon;
+
+
 @end
